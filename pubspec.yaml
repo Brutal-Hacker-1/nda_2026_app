@@ -1,0 +1,11 @@
+name: nda_2026_app
+description: NDA 2 2026 Smart Preparation App
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  youtube_player_iframe: ^4.0.4
